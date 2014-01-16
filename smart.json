@@ -3,6 +3,6 @@
   "description": "A package for including the jquery-mousewheel extension for cross browser mousewheel event support",
   "homepage": "https://github.com/sslotsky/meteor-jquery-mousewheel",
   "author": "Sam Slotsky",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "git": "https://github.com/sslotsky/meteor-jquery-mousewheel.git"
 }
